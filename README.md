@@ -1,4 +1,4 @@
-This is midterm and ass3 maded by Zhayleubay Alibek IT-2206 to Blockchain Technologies. PLS 75$
+This is midterm and ass3 maded by Zhayleubay Alibek IT-2206 to Blockchain Technologies. PLS 75%
 
 
 AI Model Marketplace
@@ -25,7 +25,7 @@ Install Truffle:
 npm install -g truffle
 
 Clone this repository
-git clone https://github.com/your-repo.git
+git clone https://github.com/czeful/Blockchain-Technologies.git
 
 
 Setting Up the Web Application
